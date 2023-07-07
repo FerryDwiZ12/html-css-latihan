@@ -10,6 +10,16 @@ header h2 {
     border-radius: 5px;
     margin-bottom: 19px;
   }
+
+  .list{
+    display: flex;
+    justify-content: center;
+  }
+
+  .list .all-songs{
+    padding-right: 80px;
+    
+  }
   
   .card img {
     width: 200px;
