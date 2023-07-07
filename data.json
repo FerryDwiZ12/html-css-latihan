@@ -1,0 +1,39 @@
+[
+    {
+      "judul_lagu": "Shape of You",
+      "nama_penyanyi": "Ed Sheeran",
+      "tahun_terbit": 2017,
+      "foto": "https://dummyimage.com/300x300"
+    },
+    {
+      "judul_lagu": "Despacito",
+      "nama_penyanyi": "Luis Fonsi ft. Daddy Yankee",
+      "tahun_terbit": 2017,
+      "foto": "https://dummyimage.com/300x300"
+    },
+    {
+      "judul_lagu": "Uptown Funk",
+      "nama_penyanyi": "Mark Ronson ft. Bruno Mars",
+      "tahun_terbit": 2014,
+      "foto": "https://dummyimage.com/300x300"
+    },
+    {
+      "judul_lagu": "Closer",
+      "nama_penyanyi": "The Chainsmokers ft. Halsey",
+      "tahun_terbit": 2016,
+      "foto": "https://dummyimage.com/300x300"
+    },
+    {
+      "judul_lagu": "Thinking Out Loud",
+      "nama_penyanyi": "Ed Sheeran",
+      "tahun_terbit": 2014,
+      "foto": "https://dummyimage.com/300x300"
+    },
+    {
+      "judul_lagu": "Hello",
+      "nama_penyanyi": "Adele",
+      "tahun_terbit": 2015,
+      "foto": "https://dummyimage.com/300x300"
+    }
+  ]
+  
