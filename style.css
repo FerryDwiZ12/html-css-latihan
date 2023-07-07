@@ -2,6 +2,8 @@ header h2 {
   text-align: center;
 }
 
+
+
 .card {
     display: flex;
     align-items: center;
@@ -9,18 +11,13 @@ header h2 {
     border: 1px solid #ccc;
     border-radius: 5px;
     margin-bottom: 19px;
+    width: 700px;
   }
 
   .list{
     display: flex;
     justify-content: center;
   }
-
-  .list .all-songs{
-    padding-right: 80px;
-    
-  }
-  
   .card img {
     width: 200px;
     height: 200px;
@@ -49,3 +46,12 @@ header h2 {
     margin: 0;
     margin-top: 10px;
   }
+
+ .play img {
+  height: 60px;
+  width: 60px;
+ }
+
+ .all-song-list{
+  padding-left: 370px;
+ }
